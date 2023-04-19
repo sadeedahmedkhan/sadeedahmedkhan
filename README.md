@@ -4,7 +4,7 @@
 
 - 🔗 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate with other content creators
-- 🏁 2023 Goals: Learn more about Blockchain & become a Web3.0 Developer
+- 🏁 2023 Goals: Become a Web3.0 Developer and contribute more to open source projects
 - 🎮 Fun fact: I love to draw and play video games
 
 ### Connect with me:
